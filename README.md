@@ -1,12 +1,10 @@
+🔭 I’m a Data Scientist working on geospatial analytics and energy forecasting to solve complex problems. I completed my undergraduate from UNC Asheville (Computer Science & Biology) and am a part time masters of computer science student at Eastern Carolina University. 
 
+🌱 In my career I have worked on various projects such as geosptatial remote sensing work for NASA, profit maximization and simulation creation at Booster and building forecasting models for electrical consumption for a DOE project. Checkout my website here (https://cadejs.github.io/).
 
-    🔭 I’m a Data Scientist working on building density market place models and robust data pipelines. I completed my undergraduate from UNC Asheville (Computer Science & Biology) and am a part time masters of computer science student at Eastern Carolina University. 
+⚡ Hobbies: I love spending time hiking and biking with friends. I also enjoy reading non-fiction books on economics, biology & ecology, history and the energy transition. Currently reading Everything written by Jessika Trancik.
 
-    🌱 As a data scientist I have worked on various projects such as geosptatial remote sensing work for NASA, profit maximization and locational intellegeince at my current role and building ML forecasting models for electrical consumption for a DOE project. Checkout my website here (https://cadejs.github.io/).
-
-    ⚡ Hobbies: I love spending time hiking and biking with friends. I also enjoy reading non-fiction books on economics, biology & ecology, history and the energy transition. Currently reading Everything written by Jessika Trancik.
-
-    📫 Let's connect! You may reach me through LinkedIn (https://www.linkedin.com/in/cadejs/) or using my email: cjustadsandberg@gmail.com
+📫 Let's connect! You may reach me through LinkedIn (https://www.linkedin.com/in/cadejs/) or using my email: cjustadsandberg@gmail.com
 
 Skills
 
