@@ -1,4 +1,4 @@
-🔭 I’m a Data Scientist working on geospatial analytics and energy forecasting to solve complex problems. I completed my undergraduate from UNC Asheville (Computer Science & Biology) and am a part time masters of computer science student at Eastern Carolina University. 
+🔭 I’m a Sr Data Scientist working to solve complex problems at CSL Behring. I completed my undergraduate from UNC Asheville (Computer Science & Biology) and am a part time masters of computer science student at Eastern Carolina University. 
 
 🌱 In my career I have worked on various projects such as geosptatial remote sensing work for NASA, profit maximization and simulation creation at Booster and building forecasting models for electrical consumption for a DOE project.
 
