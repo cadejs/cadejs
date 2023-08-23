@@ -16,4 +16,4 @@ Frameworks: Apache Spark, Git, Anaconda, AWS
 
 Tools: dbt, Looker, HEX, Jupyter, python, mysql, scikit_learn, tensorflow pytorch, QGIS
 
-Additional Competencies: Network Analysis, Remote Sensing, Experimental Design, Data Visualization
+Additional Competencies: Network Analysis, Remote Sensing, Experimental Design, Data Visualization, RDBS
