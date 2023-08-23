@@ -1,3 +1,5 @@
+## TLDR: Full stack data scientist with experience working with stakeholders ranging from CEOs to elected officials. Skilled in model building, business analytics, communication, RDBMS, data infrastructure and ETL (& reverse ETL).  Background in Data Science, Software Engineering and Biology.  
+
 🔭 I’m a Sr Data Scientist working to solve complex problems at CSL Behring. I completed my undergraduate from UNC Asheville (Computer Science & Biology) and am a part time masters of computer science student at Eastern Carolina University. 
 
 🌱 In my career I have worked on various projects such as geosptatial remote sensing work for NASA, profit maximization and simulation creation at Booster and building forecasting models for electrical consumption for a DOE project.
