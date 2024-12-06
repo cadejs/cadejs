@@ -4,7 +4,7 @@
 
 ⚡ Hobbies: I love spending time hiking and biking with friends. I also enjoy reading non-fiction books on economics, biology & ecology, history and the energy transition. Currently reading Everything written by Jessika Trancik.
 
-🌱 I completed my undergraduate from UNC Asheville (Computer Science & Biology) and am almost done with an MS in Computer Science. 
+🌱 I completed my undergraduate from UNC Asheville (Computer Science & Biology) and recieved an MS in Computer Science from Eastern Carolina University. 
 
 📫 Let's connect! You may reach me through LinkedIn (https://www.linkedin.com/in/cadejs/) or using my email: cjustadsandberg@gmail.com
 
