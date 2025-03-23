@@ -5,7 +5,7 @@ I'm a **full-stack data scientist** with a background in **ML research** and **d
 My work spans multiple domains:  
 - **Geospatial & Remote Sensing** (NASA): Terrain analysis, flood risk modeling, and spatial feature engineering  
 - **Energy Forecasting** (DOE): Probabilistic time-series modeling and demand simulation  
-- **Healthcare & Location Intelligence **(CSL): Site selection models for medical centers, using spatial and demographic features  
+- **Healthcare & Location Intelligence** (CSL): Site selection models for medical centers, using spatial and demographic features  
 - **Startup Ops & Growth** (Booster): Simulation tools, pricing optimization, and causal modeling for business decisions  
 
 I’m deeply fluent in both **modeling** and **infrastructure**:  
