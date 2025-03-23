@@ -20,7 +20,7 @@ I’m particularly excited by opportunities at the intersection of **AI, geospat
 
 ## 🧠 I thrive in environments where:
 - Research meets execution
-- Buisiness needs are at the center of the project 
+- Business needs are at the center of the project 
 - Engineers and scientists collaborate  
 - There's room to **own, ship, and scale** ideas  
 
