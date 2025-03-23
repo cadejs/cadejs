@@ -1,21 +1,36 @@
-#### TLDR: Full stack data scientist with experience working with stakeholders ranging from CEOs to elected officials. Skilled in model building, business analytics, communication, RDBMS, data infrastructure, and ETL (& reverse ETL).  Background in Data Science, Software Engineering, and Biology.  
+🚀 Full-Stack Data Scientist | ML Researcher | Data Engineer
 
-🔭 I’m a Data Scientist working to solve complex problems at FM. In my career, I have worked on various projects such as geospatial remote sensing work for NASA, profit maximization and simulation creation at Booster, location selection models for medical center locations, and building forecasting models for electrical consumption for a DOE project.
+I'm a full-stack data scientist with a background in ML research and data engineering, known for turning complex problems into high-impact, production-ready systems. I specialize in owning the full lifecycle—from early exploratory analysis and prototyping to deploying scalable, maintainable ML pipelines in production environments.
 
-⚡ Hobbies: I love spending time hiking and biking with friends. I also enjoy reading non-fiction books on economics, biology & ecology, history and the energy transition. Currently reading Everything written by Jessika Trancik.
+My work spans multiple domains:
 
-🌱 I completed my undergraduate from UNC Asheville (Computer Science & Biology) and recieved an MS in Computer Science from Eastern Carolina University. 
+    Geospatial & Remote Sensing (NASA): Terrain analysis, flood risk modeling, and spatial feature engineering
 
-📫 Let's connect! You may reach me through LinkedIn (https://www.linkedin.com/in/cadejs/) or using my email: cjustadsandberg@gmail.com
+    Energy Forecasting (DOE): Probabilistic time-series modeling and demand simulation
 
-Skills
+    Healthcare & Location Intelligence: Site selection models for urgent care centers, using spatial and demographic features
 
-Programming Languages: Python, R, SQL,  Bash
+    Startup Ops & Growth (Booster): Simulation tools, pricing optimization, and causal modeling for business decisions
 
-Machine Learning: Supervised Learning (Bayesian, Non-parametric, FLD, Regression, Classification), Unsupervised Learning (Clustering, PCA), Mult-Variate Analysis and more.
+I’m deeply fluent in both modeling and infrastructure:
 
-Frameworks: Apache Spark, Anaconda, AWS 
+    Production ML (regression, classification, clustering, forecasting, Bayesian methods)
 
-Tools: dbt, Looker, HEX, Jupyter, python, mysql, scikit_learn, tensorflow pytorch, QGIS, GIT
+    End-to-end pipelines with ETL, Reverse ETL, and model observability
 
-Additional Competencies: Network Analysis, Remote Sensing, Experimental Design, Data Visualization, RDBS
+    Large-scale computing with Apache Spark and Databricks
+
+    Tools: Python, SQL, Spark, dbt, Airflow, Databricks, PyTorch, scikit-learn, QGIS, AWS
+
+I’m particularly excited by opportunities at the intersection of AI, infrastructure, and decision-making—where tight feedback loops between models, data systems, and human insight can unlock massive value.
+🧠 I thrive in environments where:
+
+    Research meets execution
+
+    Engineers and scientists collaborate
+
+    There's room to own, ship, and scale ideas
+
+Let’s connect:
+📫 Email: cjustadsandberg@gmail.com
+🔗 LinkedIn: linkedin.com/in/cadejs
