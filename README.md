@@ -18,12 +18,6 @@ I’m particularly excited by opportunities at the intersection of **AI, geospat
 
 ---
 
-## 🧠 I thrive in environments where:
-- Research meets execution
-- Business needs are at the center of the project 
-- Engineers and scientists collaborate  
-- There's room to **own, ship, and scale** ideas  
-
 Let’s connect:  
-📫 Email: [cjustadsandberg@gmail.com](mailto:cjustadsandberg@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/cadejs](https://www.linkedin.com/in/cadejs)
+Email: [cjustadsandberg@gmail.com](mailto:cjustadsandberg@gmail.com)  
+LinkedIn: [linkedin.com/in/cadejs](https://www.linkedin.com/in/cadejs)
