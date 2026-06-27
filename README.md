@@ -1,23 +1,22 @@
-## 🚀 Full-Stack Data Scientist | ML Researcher | Data Engineer  
+I build data systems that companies, policy makers and scientists use to make better
+decisions about risk.
 
-I'm a **full-stack data scientist** with a background in **ML research** and **data engineering**, known for turning complex problems into high-impact, production-ready systems. I specialize in owning the full lifecycle—from early exploratory analysis and prototyping to **deploying scalable, maintainable ML pipelines** in production environments.
+For a top commercial property insurer, I built and integrated flood data
+into the systems that underwrite more than $500 billion in insured value.
+Completed in 18 months.
 
-My work spans multiple domains:  
-- **Geospatial & Remote Sensing** (NASA): Terrain analysis, flood risk modeling, and spatial feature engineering  
-- **Energy Forecasting** (DOE): Probabilistic time-series modeling and demand simulation  
-- **Healthcare & Location Intelligence** (CSL): Site selection models for medical centers, using spatial and demographic features  
-- **Startup Ops & Growth** (Booster): Simulation tools, pricing optimization, and causal modeling for business decisions  
+I started my own consultancy to help clients make the best decisions they
+can and to accelerate how they work internally with AI. It's a great time
+to be building the future.
 
-I’m deeply fluent in both **modeling** and **infrastructure**:  
-- Production ML (regression, classification, clustering, forecasting, Bayesian methods)  
-- End-to-end pipelines with ETL, Reverse ETL, and model observability  
-- Large-scale computing with **Apache Spark** and **Databricks**  
-- Tools: Python, SQL, Spark, dbt, Airflow, Databricks, PyTorch, scikit-learn, QGIS, AWS  
+**A few things I've done**
+- Started my career at NASA on terrain and flood-risk modeling.
+- First data scientist at an urban analytics firm. Worked with elected
+  officials across the country and found multimillion-dollar budget
+  shortfalls.
+- Rebuilt a startup's sales compensation plan so pay tracked profit, not
+  volume.
+- AI safety research, currently under review for a conference.
 
-I’m particularly excited by opportunities at the intersection of **AI, geospatial, infrastructure, and decision-making**—where tight feedback loops between models, data systems, and human insight can unlock massive value.
-
----
-
-Let’s connect:  
-Email: [cjustadsandberg@gmail.com](mailto:cjustadsandberg@gmail.com)  
-LinkedIn: [linkedin.com/in/cadejs](https://www.linkedin.com/in/cadejs)
+**Find me**
+LinkedIn: linkedin.com/in/cadejs
